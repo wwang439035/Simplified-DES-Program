@@ -5,7 +5,7 @@ This program is to encrypt and decrypt binary files using S-DES (Simplified DES)
 Input Format:
 ----------------------------------------------------------------------------------------------------------------
 The program takes a command in the following format:<br/>
-SimplifiedDES_TCN5080.exe -m [mode:encrypt|decrypt] -k [key] -i [vector] -p [plain file] -c [ciphter file]
+SimplifiedDES_TCN5080.exe -m [mode: encrypt | decrypt] -k [key] -i [vector] -p [plain file] -c [ciphter file]
 
 mode: can be only encrypt or decrypt<br/>
 initial_key: 10-bit initial key <br/>
