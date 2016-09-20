@@ -23,6 +23,6 @@ ciphertext= all bytes of the ciphertext separated by blanks, starting from the f
 
 Info:
 -----------------------------------------------------------------------------------------------------------------
-1.Operating System: Windows 8.1 Pro <br/>
-2.Programming Language: VC++ <br/>
-3.Compiling Instruction: Using VS2013 <br/>
+Operating System: Windows 8.1 Pro <br/>
+Programming Language: VC++ <br/>
+Compiling Instruction: Using VS2013 <br/>
