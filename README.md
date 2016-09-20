@@ -20,3 +20,9 @@ k1=subkey 1 <br/>
 k2=subkey 2 <br/>
 plaintext=all bytes of the plaintext separated by blanks, starting from the first byte <br/>
 ciphertext= all bytes of the ciphertext separated by blanks, starting from the first byte <br/>
+
+Info:
+-----------------------------------------------------------------------------------------------------------------
+1.Operating System: Windows 8.1 Pro <br/>
+2.Programming Language: VC++ <br/>
+3.Compiling Instruction: Using VS2013 <br/>
