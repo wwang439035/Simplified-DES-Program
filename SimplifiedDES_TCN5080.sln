@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimplifiedDES_TCN5080", "SimplifiedDES_TCN5080\SimplifiedDES_TCN5080.vcxproj", "{C9983D43-A9AE-4324-A366-D885B88C5BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9983D43-A9AE-4324-A366-D885B88C5BEA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9983D43-A9AE-4324-A366-D885B88C5BEA}.Debug|Win32.Build.0 = Debug|Win32
+		{C9983D43-A9AE-4324-A366-D885B88C5BEA}.Release|Win32.ActiveCfg = Release|Win32
+		{C9983D43-A9AE-4324-A366-D885B88C5BEA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+SimplifiedDES_TCN5080.exe -m encrypt -k 0111111101 -i 10101010 -p f1 -c f3
+SimplifiedDES_TCN5080.exe -m decrypt -k 0101010101 -i 00000000 -p f4 -c f2
