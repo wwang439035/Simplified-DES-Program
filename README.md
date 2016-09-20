@@ -4,19 +4,19 @@ This program is to encrypt and decrypt binary files using S-DES (Simplified DES)
 
 Input Format:
 ----------------------------------------------------------------------------------------------------------------
-The program takes a command in the following format:
-
+The program takes a command in the following format:<br/>
 SimplifiedDES_TCN5080.exe -m [mode:encrypt|decrypt] -k [key] -i [vector] -p [plain file] -c [ciphter file]
 
-mode: can be only encrypt or decrypt
-initial_key: 10-­‐bit initial key initial_vector: 8-­‐bit initial vector
-plaintext_file: a binary (not text) file to store the plaintext 
-ciphertext_file: a binary (not text) file to store the ciphertext
+mode: can be only encrypt or decrypt<br/>
+initial_key: 10-bit initial key <br/>
+initial_vector: 8-bit initial vector <br/>
+plaintext_file: a binary (not text) file to store the plaintext <br/>
+ciphertext_file: a binary (not text) file to store the ciphertext <br/>
 
 Output Format:
 -----------------------------------------------------------------------------------------------------------------
-The program prints output in the following format:
-k1=subkey 1
-k2=subkey 2
-plaintext=all bytes of the plaintext separated by blanks, starting from the first byte 
-ciphertext= all bytes of the ciphertext separated by blanks, starting from the first byte
+The program prints output in the following format:<br/>
+k1=subkey 1 <br/>
+k2=subkey 2 <br/>
+plaintext=all bytes of the plaintext separated by blanks, starting from the first byte <br/>
+ciphertext= all bytes of the ciphertext separated by blanks, starting from the first byte <br/>
