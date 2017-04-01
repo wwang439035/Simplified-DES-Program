@@ -1,4 +1,4 @@
-# Simplified-DES
+# Simplified-DES-Program
 
 This program is to encrypt and decrypt binary files using S-DES (Simplified DES) in the Cipher Block Chaining mode. The program takes the input of an initial key and an initial vector, reads the plaintext or ciphertext from a file, conducts the encryption or decryption, and writes the resulting ciphertext or plaintext into a second file.
 
